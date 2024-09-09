@@ -1,1 +1,1 @@
-origin link: https://github.com/stc-repo/CNN_PRE
+Original link: https://github.com/stc-repo/CNN_PRE
